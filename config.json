@@ -1,0 +1,12 @@
+{
+  "v2fly": {
+    "cwd": "./v2fly",
+    "bin_file_path": "v2ray.exe",
+    "config_path": "client.json"
+  },
+  "nginx": {
+    "cwd": "./nginx",
+    "bin_file_path": "nginx.exe",
+    "config_path": "conf/client.conf"
+  }
+}
