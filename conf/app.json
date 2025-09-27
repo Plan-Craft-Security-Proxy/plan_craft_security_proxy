@@ -1,0 +1,1 @@
+{"log":[{"handler":"console","level":"info"},{"handler":"file","level":"info","file":"logs/default.log"}]}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "trojan",
+    "server": "v2fly",
+    "bin": "v2fly/v2ray.exe",
+    "conf": "v2fly/client.json",
+    "time_wait": 5
+  },
+  {
+    "id": "ssl",
+    "server": "nginx",
+    "bin": "nginx/nginx.exe",
+    "conf": "nginx/conf/client.conf",
+    "time_wait": 5
+  }
+]
